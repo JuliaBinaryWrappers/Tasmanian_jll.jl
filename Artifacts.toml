@@ -1,0 +1,288 @@
+[[Tasmanian]]
+arch = "aarch64"
+git-tree-sha1 = "fb959edf3b702498780521ba084cb5388247260c"
+os = "macos"
+
+    [[Tasmanian.download]]
+    sha256 = "454227317cad69e9cd0720a46191100c6fc9b69b3b1d60f19cacd0b05a79202a"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.aarch64-apple-darwin.tar.gz"
+[[Tasmanian]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f599bf5681617f8391466ef1f5ad99f7f8e4d83"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "1ed536adf8e47b84b1af9204105a92e4ef3170cc1329af7e95a35507a3c34552"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9733216d7e2742cf15d2f7eaea03872fc4c5a5c7"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "d0cf85b41dd5445963b025b3ea633497d7dc0210b1f1ee9547d12e19f92858c4"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f60d0f1a5c0f535e52b0ff3aefc6ffebb1df5ffe"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "b8df5b8fbd84b4c3ce7738c1c084d576000bcb6b85d986f1c357bb78ab6c4356"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6dd0de452156ae82ae4b3bd4fed349b9c795af1"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "73a1a17faeacc3116bb6654a7354d889e55b395220169f2c18cbf77c127b6c72"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "853d064c87600821a30d1b7fa148e59d9341d6ac"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "570bba093317426f91a0ee2f05c685fea1612e65d37ab2c561d7f181f66f3f15"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3aaae4e64805939f0cba2eeb73a928437a1e078"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "3fabe2854b14c8f0b8dd46c90d26434c662df2b892bb586ba244a9a0ecfbecc2"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "54f336787f82d3f1050080aaf6da91b71e12a468"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "be778789c7a9352d2e0b528b2a0cc33f28fdf96bd618472a5b0ebe8d4228ab3f"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae0ebbb618f2e4cd9803cf3d27281b983a2459ef"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "0ee5e3ee74508f2a8685811bb4c95bae6a8449208ed8c278f0ecb636ef5390b8"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e13a04add7b526b312c3a2684bca94559293e31b"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "26e0b7aec760624e87f6bc86521cb18bdec859955dc5538d54d58ba2cc8f8e3a"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f99b6fc830c5c15650b55737a9f6d0bf1c571065"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "6992333fa9db5a169367a18c778fa44dfe5f50d40828284b39ce2be32bcc901c"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "57e7ed603126670b9972b21ddf84bfcef8a3ccff"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "f94dd3b75a3f2e3706959618d1714dcc85fcd2dd271434d0b282112c459cabad"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c27f44dc921349f339a1fc5119b8040f80bd96a8"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "1f18fb370f8fb6e659ee70b5b9217c5b314e94b92f676eac8402f8345de6fed7"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "270de5df5826bbaaab4f13fc0d2b817b5232e004"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "fda123a7149255a0d73706ef2a6549d38c60bffdd100426a4771a4c717d7c8f2"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1763c48ebd9301ad4fcb45d257494a7ce1f48191"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "ed14299d3602b7d9e6d8d3b634a3748db43a73adc4a8c689ef2227dac50b4107"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8257a6548b340ff6b079c60490ad556e278ea872"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "f3c5af5b3deab72ffe19644fac8b9df67ceb5d5d3f190d45e7d6593f3f239041"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.i686-linux-musl-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a6207d0b10a1414079dac2b5d9ca9df2f80b9f7"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "2a09c280a454ecefb0bcebe91aae9cc7dda7411c5e889f459634ae1dfcb23697"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.i686-linux-musl-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b66e015cf50ce7be2c6cb3f498c0b98a8763878f"
+os = "windows"
+
+    [[Tasmanian.download]]
+    sha256 = "0a35955f36ffdb81a78f2e725c94768bc5f71189cbf1b70b1155dfcf6b4d760b"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ce8cd7ab0b14984941e288d71bb258cc36f538c"
+os = "windows"
+
+    [[Tasmanian.download]]
+    sha256 = "bf14557308ae594c3881d76cf58424f513b721a5b76351f04f43db6390d603e0"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5248875f2be67101a7b9c59d3fc8f4890cb128f"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "d8d5e8589e7ff6d8c59a7d27febe96d50d5aba1017aa502e4255da88a956e96a"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3631599e9fcfca86a3bd6e3b69765930c10954c4"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "883c0a220cb4635226b719bcad34af4dc5bdc91a0dbac3ef692dd4a2ff01adbd"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+git-tree-sha1 = "9c81bd50ea392c9a3bc31a0750f73efc0d1136d2"
+os = "macos"
+
+    [[Tasmanian.download]]
+    sha256 = "2a2a769a6edfd683f3724af9e7ce7538e9dd3dcd0850a8a377c6f807728798d7"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-apple-darwin.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b88b48a1fd637db438a99be996172681fae3df81"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "158e7a4d1369660e185c5ce1287bd975bb0eae5921defdda8e6bdc6de163c137"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e829a1f7ddcc4631361fe69a0f003a79bd01a281"
+libc = "glibc"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "e35ea82954effe74b53d71d606229bd471a6c5ab418b7447937022b10f4e3ef3"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "17ae4ece94c108a245032787bcaa1035367e5bff"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "5b5cc8987d8e5d94ead0ee4568135f66047a86e577c4dc617209d0b469d26f9e"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "76e9f8bc218721d48a448130692c50e07e04554f"
+libc = "musl"
+os = "linux"
+
+    [[Tasmanian.download]]
+    sha256 = "8e04750e64e11959e1222de5dd9dcdc3d609ece9a754e09afe22e8ba2d150a3b"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+git-tree-sha1 = "815c32fc3712c378125af9cf0a80f4489f0c30c8"
+os = "freebsd"
+
+    [[Tasmanian.download]]
+    sha256 = "86950685dbd2c39c7695345d1e09e313305437f49dbf10b8f253a831a800c9f8"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-unknown-freebsd.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9866560ff83672b9a2433ce7ed39367c973ccce0"
+os = "windows"
+
+    [[Tasmanian.download]]
+    sha256 = "0ff9723f7053ea7df075e70afcec327575564d2572873e7581442baf54dee759"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Tasmanian]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ccbdadfbe8e82a82812837b1be8b4a4aaf80706c"
+os = "windows"
+
+    [[Tasmanian.download]]
+    sha256 = "938e3a20299a5a155ff1fd604d675eacadf056e383b76eb34c5b9419b74ece31"
+    url = "https://github.com/JuliaBinaryWrappers/Tasmanian_jll.jl/releases/download/Tasmanian-v8.0.0+0/Tasmanian.v8.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
