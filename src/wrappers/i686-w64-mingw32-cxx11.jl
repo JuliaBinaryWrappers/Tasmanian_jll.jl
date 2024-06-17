@@ -2,11 +2,12 @@
 export libtasmaniandream, libtasmaniansparsegrid
 
 using CompilerSupportLibraries_jll
+using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("Tasmanian")
 JLLWrappers.@declare_library_product(libtasmaniandream, "libtasmaniandream.dll")
 JLLWrappers.@declare_library_product(libtasmaniansparsegrid, "libtasmaniansparsegrid.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libtasmaniandream,
         "bin\\libtasmaniandream.dll",

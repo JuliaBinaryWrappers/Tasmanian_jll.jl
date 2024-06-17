@@ -2,11 +2,12 @@
 export libtasmaniandream, libtasmaniansparsegrid
 
 using LLVMOpenMP_jll
+using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("Tasmanian")
 JLLWrappers.@declare_library_product(libtasmaniandream, "libtasmaniandream.so.8")
 JLLWrappers.@declare_library_product(libtasmaniansparsegrid, "libtasmaniansparsegrid.so.8")
 function __init__()
-    JLLWrappers.@generate_init_header(LLVMOpenMP_jll)
+    JLLWrappers.@generate_init_header(LLVMOpenMP_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libtasmaniandream,
         "lib/libtasmaniandream.so",
