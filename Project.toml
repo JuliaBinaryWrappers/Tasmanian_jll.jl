@@ -1,6 +1,6 @@
 name = "Tasmanian_jll"
 uuid = "5b6edb9a-6f5c-5561-95ad-cece0030cdd0"
-version = "8.0.1+0"
+version = "8.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,5 +14,5 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 JLLWrappers = "1.2.0"
 julia = "1.9"
 libblastrampoline_jll = "5.4"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

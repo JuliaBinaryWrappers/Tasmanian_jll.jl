@@ -10,13 +10,13 @@ function __init__()
     JLLWrappers.@generate_init_header(LLVMOpenMP_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libtasmaniandream,
-        "lib/libtasmaniandream.8.0.0.dylib",
+        "lib/libtasmaniandream.8.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libtasmaniansparsegrid,
-        "lib/libtasmaniansparsegrid.8.0.0.dylib",
+        "lib/libtasmaniansparsegrid.8.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
